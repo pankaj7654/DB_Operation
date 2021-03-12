@@ -1,0 +1,10 @@
+C:\Users\Pankaj\source\repos\db_poperation\db_poperation\bin\Debug\db_poperation.exe.config
+C:\Users\Pankaj\source\repos\db_poperation\db_poperation\bin\Debug\db_poperation.exe
+C:\Users\Pankaj\source\repos\db_poperation\db_poperation\bin\Debug\db_poperation.pdb
+C:\Users\Pankaj\source\repos\db_poperation\db_poperation\obj\Debug\db_poperation.csprojAssemblyReference.cache
+C:\Users\Pankaj\source\repos\db_poperation\db_poperation\obj\Debug\db_poperation.Form1.resources
+C:\Users\Pankaj\source\repos\db_poperation\db_poperation\obj\Debug\db_poperation.Properties.Resources.resources
+C:\Users\Pankaj\source\repos\db_poperation\db_poperation\obj\Debug\db_poperation.csproj.GenerateResource.cache
+C:\Users\Pankaj\source\repos\db_poperation\db_poperation\obj\Debug\db_poperation.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj\source\repos\db_poperation\db_poperation\obj\Debug\db_poperation.exe
+C:\Users\Pankaj\source\repos\db_poperation\db_poperation\obj\Debug\db_poperation.pdb
